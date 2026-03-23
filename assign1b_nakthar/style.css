@@ -1,0 +1,68 @@
+body {
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+header {
+  font-family: "Pattaya", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  color: white;
+  background-color: rgb(214, 143, 10);
+}
+
+nav {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+  font-size: 1.4rem;
+  text-align: center;
+  background-color: hsl(163, 92%, 76%);
+  padding: 20px;
+}
+
+main p+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    border: solid orangered;
+    text-align: center;
+}
+
+div {
+    background-color: rgb(235, 245, 245);
+}
+
+footer {
+    background-color: skyblue;
+}
+
+form {
+    background-color: rgb(243, 239, 218);
+    padding: 20px;
+    border: 1px solid black;
+}
+
+#formTitle {
+    padding-left: 450px;
+}
+
+#txtFeedback {
+    width: 230px;
+    height: 130px;
+}
+
+span {
+    padding-left: 150px;
+}
+
+.phone-email {
+    color: purple;
+}
+
